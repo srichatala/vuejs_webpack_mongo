@@ -1,6 +1,6 @@
-# dacgroup_lpf
+# VueJS_WebPack_Mongo
 
-> DAC Grouop Local Presence finder
+> 
 
 ## Build Setup
 
