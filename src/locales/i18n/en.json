@@ -1,0 +1,41 @@
+{
+    "components": {
+        "labels": [
+			{ "businessInfo": "Business Information" },
+			{ "contactInfo": "Contact Information" }
+        ],
+		"input": {
+			"placeholder": [
+				{ "businessName": "Business Name" },
+				{ "bphoneNumber": "Business Phone Number" },
+                { "baddress": "Business Address" },
+                { "email": "Email Address" },
+                { "fName": "First Name (Optional)" },
+                { "lName": "Last Name (Optional)" },
+                { "cName": "Company Name (Optional)" },
+                { "pNumber": "Phone Number (Optional)" }
+			]
+		},
+		"button": [
+			{ "submit": "Submit" },
+			{ "signin": "Sign In" },
+			{ "signout": "Sign Out" },
+			{ "reset": "Reset" }
+		],
+		"checkbox": {
+			"label": [
+				{ "langSwitch": "International" }
+			]
+		},
+		"popup": [
+			{
+				"expired": {
+					"title": "Warning",
+					"desc": "Token Expired, Please login again",
+					"confirm": "Yes",
+					"cancel": "No"
+				}
+			}
+		]
+	}
+}

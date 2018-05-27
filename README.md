@@ -1,12 +1,12 @@
-# vuejs_webpack_mongo
+# dacgroup_lpf
 
-> A Vue.js project
+> DAC Grouop Local Presence finder
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-npm install
+yarn install
 
 # serve with hot reload at localhost:8080
 npm run dev

@@ -1,13 +1,17 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <lang-selector />
     <router-view/>
   </div>
 </template>
 
 <script>
+import LangSelector from './components/LangSelector'
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    LangSelector
+  }
 }
 </script>
 
